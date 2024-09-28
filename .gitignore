@@ -1,0 +1,10 @@
+.venv/
+napisy.srt
+napisy.txt
+napisy_przetlumaczone.txt
+requirements.txt
+ignore/
+.idea/
+.idea
+__pycache__
+.__pycache__/
